@@ -1,0 +1,11 @@
+c:\users\dylan\documents\visual studio 2015\Projects\cookbook\bin\Debug\cookbook.exe.config
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\bin\Debug\cookbook.mdf
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\bin\Debug\cookbook_log.ldf
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\bin\Debug\cookbook.exe
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\bin\Debug\cookbook.pdb
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\obj\Debug\cookbook.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\obj\Debug\cookbook.Properties.Resources.resources
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\obj\Debug\cookbook.csproj.GenerateResource.Cache
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\obj\Debug\cookbook.exe
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\obj\Debug\cookbook.pdb
+C:\Users\Dylan\documents\visual studio 2015\Projects\cookbook\obj\Debug\cookbook.FrmMain.resources
